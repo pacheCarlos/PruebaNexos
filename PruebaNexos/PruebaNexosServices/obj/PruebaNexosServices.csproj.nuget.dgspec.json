@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USUARIO\\source\\repos\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj": {}
+    "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USUARIO\\source\\repos\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj": {
+    "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USUARIO\\source\\repos\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj",
+        "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj",
         "projectName": "PruebaNexosServices",
-        "projectPath": "C:\\Users\\USUARIO\\source\\repos\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj",
+        "projectPath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj",
         "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USUARIO\\source\\repos\\PruebaNexos\\PruebaNexosServices\\obj\\",
+        "outputPath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
