@@ -1,0 +1,15 @@
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosBLL.deps.json
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosBLL.runtimeconfig.json
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosBLL.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosBLL.dll
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosBLL.pdb
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosServices.dll
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\bin\Debug\netcoreapp3.1\PruebaNexosServices.pdb
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.csprojAssemblyReference.cache
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.csproj.CopyComplete
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.dll
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.pdb
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.genruntimeconfig.cache

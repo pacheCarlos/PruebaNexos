@@ -1,0 +1,3 @@
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexoBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexoBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexoBLL\obj\Debug\netcoreapp3.1\PruebaNexosBLL.csproj.CoreCompileInputs.cache

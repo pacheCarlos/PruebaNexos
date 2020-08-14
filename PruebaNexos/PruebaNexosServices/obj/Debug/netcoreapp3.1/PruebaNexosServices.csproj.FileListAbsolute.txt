@@ -1,0 +1,9 @@
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\bin\Debug\netcoreapp3.1\PruebaNexosServices.deps.json
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\bin\Debug\netcoreapp3.1\PruebaNexosServices.dll
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\bin\Debug\netcoreapp3.1\PruebaNexosServices.pdb
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\obj\Debug\netcoreapp3.1\PruebaNexosServices.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\obj\Debug\netcoreapp3.1\PruebaNexosServices.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\obj\Debug\netcoreapp3.1\PruebaNexosServices.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\obj\Debug\netcoreapp3.1\PruebaNexosServices.dll
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\obj\Debug\netcoreapp3.1\PruebaNexosServices.pdb
+C:\Users\USUARIO\source\repos\PruebaNexos\PruebaNexosServices\obj\Debug\netcoreapp3.1\PruebaNexosServices.csprojAssemblyReference.cache

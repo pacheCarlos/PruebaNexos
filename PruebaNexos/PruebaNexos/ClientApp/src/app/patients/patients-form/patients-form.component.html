@@ -1,0 +1,102 @@
+<h1>{{modEdit ? 'Editar' : 'Agregar'}} Paciente</h1>
+<form class="form-horizontal" novalidate
+      (ngSubmit)="save()" [formGroup]="formGroup">
+  <fieldset>
+
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup.get('nameComplete').touched || formGroup.get('nameComplete').dirty) && !formGroup.get('nameComplete').valid }">
+      <label class="col-md-2 control-label"
+             for="nameCompleteId">Nombre</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="nameCompleteId"
+               type="text"
+               required
+               formControlName="nameComplete" />
+        <span class="help-block" *ngIf="(formGroup.get('nameComplete').touched || formGroup.get('nameComplete').dirty) && formGroup.get('nameComplete').errors">
+          <span *ngIf="formGroup.get('nameComplete').errors.required">
+            El campo nombre es requerido
+          </span>
+        </span>
+      </div>
+    </div>
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup.get('socialSecurityNumber').touched || formGroup.get('socialSecurityNumber').dirty) && !formGroup.get('socialSecurityNumber').valid }">
+      <label class="col-md-2 control-label"
+             for="socialSecurityNumberId">Número de seguro social</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="socialSecurityNumberId"
+               type="number"
+               required
+               formControlName="socialSecurityNumber" />
+        <span class="help-block" *ngIf="(formGroup.get('socialSecurityNumber').touched || formGroup.get('socialSecurityNumber').dirty) && formGroup.get('socialSecurityNumber').errors">
+          <span *ngIf="formGroup.get('socialSecurityNumber').errors.required">
+            El campo nombre es requerido
+          </span>
+        </span>
+      </div>
+    </div>
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup.get('zipCode').touched || formGroup.get('zipCode').dirty) && !formGroup.get('zipCode').valid }">
+      <label class="col-md-2 control-label"
+             for="zipCodeId">Codigo postal</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="zipCodeId"
+               type="number"
+               required
+               formControlName="zipCode" />
+        <span class="help-block" *ngIf="(formGroup.get('zipCode').touched || formGroup.get('zipCode').dirty) && formGroup.get('zipCode').errors">
+          <span *ngIf="formGroup.get('zipCode').errors.required">
+            El campo nombre es requerido
+          </span>
+        </span>
+      </div>
+    </div>
+    <div class="form-group"
+         [ngClass]="{'has-error': (formGroup.get('phone').touched || formGroup.get('phone').dirty) && !formGroup.get('phone').valid }">
+      <label class="col-md-2 control-label"
+             for="phoneId">Teléfono</label>
+
+      <div class="col-md-8">
+        <input class="form-control"
+               id="phoneId"
+               type="number"
+               required
+               formControlName="phone" />
+        <span class="help-block" *ngIf="(formGroup.get('phone').touched || formGroup.get('phone').dirty) && formGroup.get('phone').errors">
+          <span *ngIf="formGroup.get('phone').errors.required">
+            El campo nombre es requerido
+          </span>
+        </span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="col-md-4 col-md-offset-2">
+        <span>
+          <button class="btn btn-primary"
+                  type="submit"
+                  [disabled]="!formGroup.valid">
+            Guardar
+          </button>
+        </span>
+      </div>
+      <br />
+      <div class="col-md-4 col-md-offset-2">
+        <span>
+          <button class="btn btn-primary"
+                  type="button"
+                  [routerLink]='["/patients"]'>
+            Cancelar
+          </button>
+        </span>
+      </div>
+
+    </div>
+  </fieldset>
+</form>

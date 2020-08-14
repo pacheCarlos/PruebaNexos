@@ -1,0 +1,28 @@
+<h1>Doctores</h1>
+<button [routerLink]='["/doctors-add"]' class="btn btn-primary">Agregar doctor</button>
+
+<p *ngIf="!(doctors && doctors.length)">
+  No existen registros para mostrar
+</p>
+
+<table class="table" *ngIf="doctors && doctors.length">
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Especialidad</th>
+      <th>Número de credencial</th>
+      <th>Hospital</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let doctor of doctors">
+      <td>{{doctor.nameComplete}}</td>
+      <td>{{doctor.specialty}}</td>
+      <td>{{doctor.accountNumber}}</td>
+      <td>{{doctor.hospital}}</td>
+      <td><button class="btn btn-primary" [routerLink]='["/doctors-add/" + doctor.id]'>Editar doctor</button></td>
+      <td><button class="btn btn-primary" (click)="delete(doctor)">Borrar doctor</button></td>
+    </tr>
+  </tbody>
+</table>
