@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9lbasYBmnB2vHffZP17PYkMWc2SA4DMqEwDQw1UNRF1MCG+iePScZDjvZm4sPPlFYnkHSh0wVppf6Ovo45UJBg==",
+  "dgSpecHash": "sKhQsBp7EEAYIA6oEcJsEctQjDKXumF/+4D3BFka8CJhbWQ7iyC2WSWBj6nFs3lEwigs/2LDRQTBDVLdRSMJrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\WebApiPruebaNexos\\WebApiPruebaNexos.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\WebApiPruebaNexos\\WebApiPruebaNexos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",

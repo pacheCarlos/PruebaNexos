@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ad3EjAJzlEAskReRl/tO6pt4CJIk0vOlTZrB5lAESHybgLKWhcFV62MUmLKBc+FMpY/n0OPSQBKu7+LUSFMmog==",
+  "dgSpecHash": "PlVzbMlSNMTx85wbxVolsj40pEH/iJxCkjlbcwp8RpI32Yln4hZnJOBN1EB/wmdJGn229lJIuXQ+fpasDGtypQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosBLL\\PruebaNexosBLL.csproj",
+  "projectFilePath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\PruebaNexosBLL\\PruebaNexosBLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.0\\microsoft.entityframeworkcore.2.2.0.nupkg.sha512",

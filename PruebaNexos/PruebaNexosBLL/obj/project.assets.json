@@ -3034,11 +3034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosBLL\\PruebaNexosBLL.csproj",
+      "projectUniqueName": "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\PruebaNexosBLL\\PruebaNexosBLL.csproj",
       "projectName": "PruebaNexosBLL",
-      "projectPath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosBLL\\PruebaNexosBLL.csproj",
+      "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\PruebaNexosBLL\\PruebaNexosBLL.csproj",
       "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosBLL\\obj\\",
+      "outputPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\PruebaNexosBLL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3054,8 +3054,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj": {
-              "projectPath": "C:\\Users\\USUARIO\\Desktop\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj"
+            "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj": {
+              "projectPath": "C:\\Users\\USUARIO\\Documents\\GitHub\\PruebaNexos\\PruebaNexos\\PruebaNexosServices\\PruebaNexosServices.csproj"
             }
           }
         }
